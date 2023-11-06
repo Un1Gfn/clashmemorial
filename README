@@ -1,0 +1,15 @@
+
+R.I.P. Dreamacro/clash
+
+Alpine Linux
+<https://git.alpinelinux.org/aports/tree/testing/clash/APKBUILD?id=54e6cdb86e1436b85605f6f00c64e3eab89f780e#n34>
+
+Arch Linux
+<https://gitlab.archlinux.org/archlinux/packaging/packages/clash/-/blob/305e187f3546d1574883fec4b80ed6f5806bd757/PKGBUILD#L20>
+
+Homebrew
+<https://github.com/Homebrew/homebrew-core/blob/64c63956b46ffa203307ae4bbabdec170ee987fd/Formula/c/clash.rb#L5>
+
+Checksum
+sha256sum -c <<<"139794f50d3d94f438bab31a993cf25d7cbdf8ca8e034f3071e0dd0014069692  clash-1.18.0.tar.gz"
+sha512sum -c <<<"b062b477ea23860d400b6d9280d0cf53d8e0b41a5105ce3b9cb374288087bcefd21949b89434a3dde151ea58d27574c0e97369d64fa9090b712182f14bb71380  clash-1.18.0.tar.gz"
